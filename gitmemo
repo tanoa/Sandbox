@@ -1,0 +1,39 @@
+■gitインストール
+[https://gitforwindows.org/:embed:cite]
+
+■empty Git repository
+xxxxxxx@DESKTOP- ~ (master)
+$ git init
+Initialized empty Git repository in C:/Users/xxxxxx/.git/
+
+
+■sampleファイル
+xxxxxxx@DESKTOP- ~ (master)
+$ echo "# test" >> README.md
+
+xxxxxxx@DESKTOP- ~ (master)
+$ git add "C:\Users\xxxxxxx\workspace\README.md"
+
+■commit
+xxxxxxx@DESKTOP- ~ (master)
+$ git commit -m "first commit"
+[master (root-commit) 28ac58a] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 workspace/README.md
+
+■checkout
+xxxxxxx@DESKTOP- ~ (master)
+$ git checkout -f
+
+■github紐づけ
+xxxxxxx@DESKTOP- ~ (master)
+$ git config --global user.email "user@gmail.com"
+
+xxxxxxx@DESKTOP- ~ (master)
+$ git remote add origin https://github.com/user/lesson.git
+
+■master
+xxxxxxx@DESKTOP- ~ (master)
+$ git push -u origin master
+To https://github.com/user/lesson.git
+ * [new branch]      master -> master
