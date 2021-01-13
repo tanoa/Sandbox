@@ -1,0 +1,24 @@
+--定例タスク(CopyBase)
+□#xxxxx RV 開発レビューSCHR                                mmdd
+□#xxxxx RV 開発レビューFH                                  mmdd
+□#xxxxx RV VxxLxx応急修正提供                              mmdd
+□#xxxxx MT 詳細線表/品質管理                               mmdd
+□#xxxxx MT 工程会                                         mmdd
+□#xxxxx MT ST棚卸                                          mmdd
+□#xxxxx MT OT棚卸                                          mmdd
+□#xxxxx MK 構成管理図                                      mmdd
+□#xxxxx MK 要員配置                                        mmdd
+□#xxxxx MK スケジュール作成                                mmdd
+□#xxxxx MK 動作環境情報整理                                mmdd
+□#xxxxx MK xx品質評価(xxxx Project)                       mmdd
+□#xxxxx MK ST品質評価(xxxx Project)                        mmdd
+□#xxxxx MK OT品質評価(xxxx Project)                        mmdd
+□#xxxxx QA QA対応                                          mmdd
+□#xxxxx PW 受注業務処理                                    mmdd
+□#xxxxx PW 発注業務処理                                    mmdd
+□#xxxxx PW 検収業務処理                                    mmdd
+□#xxxxx PW 納品業務処理                                    mmdd
+□#xxxxx PW PMチェック処理                                 mmdd
+□#xxxxx PW 要員調整                                      mmdd
+□#xxxxx ML [提供]Uyymmdd                                 mmdd
+****************************************************************
